@@ -357,8 +357,8 @@
   <Description>5</Description>
   <FileName>Vineyard/Majesty Here I Am</FileName>
   <title>Majesty Here I Am</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry40>
   <Entry41>
   <Date>2016-09-06</Date>
@@ -366,8 +366,8 @@
   <Description>5</Description>
   <FileName>Vineyard/Majesty Here I Am</FileName>
   <title>Majesty Here I Am</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry41>
   <Entry42>
   <Date>2016-09-06</Date>
@@ -376,7 +376,7 @@
   <FileName>Vineyard/Heart of Worship</FileName>
   <title>Heart of Worship</title>
   <author>Matt Redman</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry42>
   <Entry43>
   <Date>2016-09-06</Date>
@@ -385,7 +385,7 @@
   <FileName>Vineyard/Uenderlig, Ubeskrivelig</FileName>
   <title>Uenderlig, Ubeskrivelig</title>
   <author>Hillsong</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry43>
   <Entry44>
   <Date>2016-09-06</Date>
@@ -394,7 +394,7 @@
   <FileName>Vineyard/You alone can rescue</FileName>
   <title>You alone can rescue</title>
   <author>Matt Redman</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry44>
   <Entry45>
   <Date>2016-09-06</Date>
@@ -402,8 +402,8 @@
   <Description>1</Description>
   <FileName>Vineyard/Test</FileName>
   <title>Test</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry45>
   <Entry46>
   <Date>2016-09-06</Date>
@@ -411,6 +411,114 @@
   <Description>3</Description>
   <FileName>Vineyard/Test</FileName>
   <title>Test</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry46>
+  <Entry47>
+  <Date>2016-11-15</Date>
+  <Time>09:30:23</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/Let my life be like a lovesong</FileName>
+  <title>Let my life be like a lovesong</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>false</HasChords></Entry46></log>
+  <HasChords>false</HasChords></Entry47>
+  <Entry48>
+  <Date>2016-11-15</Date>
+  <Time>09:31:36</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Let my life be like a lovesong</FileName>
+  <title>Let my life be like a lovesong</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry48>
+  <Entry49>
+  <Date>2016-11-15</Date>
+  <Time>09:31:39</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Let my life be like a lovesong</FileName>
+  <title>Let my life be like a lovesong</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry49>
+  <Entry50>
+  <Date>2016-11-15</Date>
+  <Time>09:31:59</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Let my life be like a lovesong</FileName>
+  <title>Let my life be like a lovesong</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry50>
+  <Entry51>
+  <Date>2016-11-15</Date>
+  <Time>09:32:02</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Let my life be like a lovesong</FileName>
+  <title>Let my life be like a lovesong</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry51>
+  <Entry52>
+  <Date>2016-11-15</Date>
+  <Time>09:32:21</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Here I am to worship</FileName>
+  <title>Here I am to worship</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry52>
+  <Entry53>
+  <Date>2016-11-15</Date>
+  <Time>09:32:58</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Here I am to worship</FileName>
+  <title>Here I am to worship</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry53>
+  <Entry54>
+  <Date>2016-11-15</Date>
+  <Time>09:33:01</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Here I am to worship</FileName>
+  <title>Here I am to worship</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry54>
+  <Entry55>
+  <Date>2016-11-15</Date>
+  <Time>09:33:31</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Here I am to worship</FileName>
+  <title>Here I am to worship</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry55>
+  <Entry56>
+  <Date>2016-11-15</Date>
+  <Time>09:33:31</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Here I am to worship</FileName>
+  <title>Here I am to worship</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry56>
+  <Entry57>
+  <Date>2016-11-15</Date>
+  <Time>09:34:00</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Here I am to worship</FileName>
+  <title>Here I am to worship</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry57>
+  <Entry58>
+  <Date>2016-11-15</Date>
+  <Time>09:34:00</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Here I am to worship</FileName>
+  <title>Here I am to worship</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry58></log>
