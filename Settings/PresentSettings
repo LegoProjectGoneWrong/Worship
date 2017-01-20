@@ -2,14 +2,13 @@
 <present_settings version="1.0">
   <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="true" blank_uses_next="true" exit_prompt="false" transition_frames="5" transition_time="100" mouse_cursor="arrow"/>
   <default_style index="default_style">
-  <title enabled="false" valign="bottom" align="center" include_verse="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="26" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
-  <subtitle enabled="true" valign="bottom" align="center" descriptive="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="18" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
-  <song_subtitle/>
+  <title enabled="true" valign="bottom" align="center" include_verse="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="20" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <subtitle enabled="true" valign="bottom" align="center" descriptive="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="14" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <song_subtitle>author</song_subtitle>
   <body enabled="true" auto_scale="true" valign="middle" align="center" highlight_chorus="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="34" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#FF0000">
   <tabs/>
 </body>
-  <background strip_footer="0" color="#000000" position="1"/>
-</default_style>
+  <background strip_footer="0" color="#000000" position="1"></background></default_style>
   <scripture_style index="scripture_style">
   <title enabled="true" valign="top" align="center" include_verse="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="24" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
   <subtitle enabled="true" valign="bottom" align="center" descriptive="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="20" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
@@ -496,5 +495,4 @@ eeh/iFZEelInRm/OrCWYXuaANASr6il8wetVFtwO5qQR49aALG8Uu6oAn1pwFAEuRRmmc0tAD80U
   <song_style_preferred>true</song_style_preferred>
   <presentation_mode code="0"/>
   <snapshot enable="false" export_preview="false" export_live_insertions="true" export_metadata="true">
-  <filename/>
-</snapshot></present_settings>
+  <filename></filename></snapshot></present_settings>

@@ -420,8 +420,8 @@
   <Description>1</Description>
   <FileName>Vineyard/Let my life be like a lovesong</FileName>
   <title>Let my life be like a lovesong</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry47>
   <Entry48>
   <Date>2016-11-15</Date>
@@ -429,8 +429,8 @@
   <Description>3</Description>
   <FileName>Vineyard/Let my life be like a lovesong</FileName>
   <title>Let my life be like a lovesong</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry48>
   <Entry49>
   <Date>2016-11-15</Date>
@@ -438,8 +438,8 @@
   <Description>5</Description>
   <FileName>Vineyard/Let my life be like a lovesong</FileName>
   <title>Let my life be like a lovesong</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry49>
   <Entry50>
   <Date>2016-11-15</Date>
@@ -447,8 +447,8 @@
   <Description>3</Description>
   <FileName>Vineyard/Let my life be like a lovesong</FileName>
   <title>Let my life be like a lovesong</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry50>
   <Entry51>
   <Date>2016-11-15</Date>
@@ -456,8 +456,8 @@
   <Description>5</Description>
   <FileName>Vineyard/Let my life be like a lovesong</FileName>
   <title>Let my life be like a lovesong</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry51>
   <Entry52>
   <Date>2016-11-15</Date>
@@ -466,7 +466,7 @@
   <FileName>Vineyard/Here I am to worship</FileName>
   <title>Here I am to worship</title>
   <author>Chris Tomlin</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry52>
   <Entry53>
   <Date>2016-11-15</Date>
@@ -475,7 +475,7 @@
   <FileName>Vineyard/Here I am to worship</FileName>
   <title>Here I am to worship</title>
   <author>Chris Tomlin</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry53>
   <Entry54>
   <Date>2016-11-15</Date>
@@ -484,7 +484,7 @@
   <FileName>Vineyard/Here I am to worship</FileName>
   <title>Here I am to worship</title>
   <author>Chris Tomlin</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry54>
   <Entry55>
   <Date>2016-11-15</Date>
@@ -493,7 +493,7 @@
   <FileName>Vineyard/Here I am to worship</FileName>
   <title>Here I am to worship</title>
   <author>Chris Tomlin</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry55>
   <Entry56>
   <Date>2016-11-15</Date>
@@ -502,7 +502,7 @@
   <FileName>Vineyard/Here I am to worship</FileName>
   <title>Here I am to worship</title>
   <author>Chris Tomlin</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry56>
   <Entry57>
   <Date>2016-11-15</Date>
@@ -511,7 +511,7 @@
   <FileName>Vineyard/Here I am to worship</FileName>
   <title>Here I am to worship</title>
   <author>Chris Tomlin</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry57>
   <Entry58>
   <Date>2016-11-15</Date>
@@ -520,5 +520,581 @@
   <FileName>Vineyard/Here I am to worship</FileName>
   <title>Here I am to worship</title>
   <author>Chris Tomlin</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry58>
+  <Entry59>
+  <Date>2017-01-20</Date>
+  <Time>13:07:05</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/Adore Him</FileName>
+  <title>Adore Him</title>
+  <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry58></log>
+  <HasChords>false</HasChords></Entry59>
+  <Entry60>
+  <Date>2017-01-20</Date>
+  <Time>13:12:43</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Adore Him</FileName>
+  <title>Adore Him</title>
+  <author>Samuel Lane</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry60>
+  <Entry61>
+  <Date>2017-01-20</Date>
+  <Time>13:12:54</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Adore Him</FileName>
+  <title>Adore Him</title>
+  <author>Samuel Lane</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry61>
+  <Entry62>
+  <Date>2017-01-20</Date>
+  <Time>13:13:35</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Adore Him</FileName>
+  <title>Adore Him</title>
+  <author>Samuel Lane</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry62>
+  <Entry63>
+  <Date>2017-01-20</Date>
+  <Time>13:13:37</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Adore Him</FileName>
+  <title>Adore Him</title>
+  <author>Samuel Lane</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry63>
+  <Entry64>
+  <Date>2017-01-20</Date>
+  <Time>13:17:34</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry64>
+  <Entry65>
+  <Date>2017-01-20</Date>
+  <Time>13:18:24</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry65>
+  <Entry66>
+  <Date>2017-01-20</Date>
+  <Time>13:18:32</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry66>
+  <Entry67>
+  <Date>2017-01-20</Date>
+  <Time>13:18:36</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry67>
+  <Entry68>
+  <Date>2017-01-20</Date>
+  <Time>13:21:42</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry68>
+  <Entry69>
+  <Date>2017-01-20</Date>
+  <Time>13:21:45</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry69>
+  <Entry70>
+  <Date>2017-01-20</Date>
+  <Time>13:22:26</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry70>
+  <Entry71>
+  <Date>2017-01-20</Date>
+  <Time>13:22:32</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry71>
+  <Entry72>
+  <Date>2017-01-20</Date>
+  <Time>13:22:48</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry72>
+  <Entry73>
+  <Date>2017-01-20</Date>
+  <Time>13:22:51</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry73>
+  <Entry74>
+  <Date>2017-01-20</Date>
+  <Time>13:28:21</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry74>
+  <Entry75>
+  <Date>2017-01-20</Date>
+  <Time>13:28:56</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/No Longer Slaves</FileName>
+  <title>No Longer Slaves</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry75>
+  <Entry76>
+  <Date>2017-01-20</Date>
+  <Time>13:29:00</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/No Longer Slaves</FileName>
+  <title>No Longer Slaves</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry76>
+  <Entry77>
+  <Date>2017-01-20</Date>
+  <Time>13:29:34</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry77>
+  <Entry78>
+  <Date>2017-01-20</Date>
+  <Time>13:29:41</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry78>
+  <Entry79>
+  <Date>2017-01-20</Date>
+  <Time>13:29:43</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry79>
+  <Entry80>
+  <Date>2017-01-20</Date>
+  <Time>13:29:47</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry80>
+  <Entry81>
+  <Date>2017-01-20</Date>
+  <Time>13:30:27</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry81>
+  <Entry82>
+  <Date>2017-01-20</Date>
+  <Time>13:31:05</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry82>
+  <Entry83>
+  <Date>2017-01-20</Date>
+  <Time>13:31:09</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry83>
+  <Entry84>
+  <Date>2017-01-20</Date>
+  <Time>13:32:30</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry84>
+  <Entry85>
+  <Date>2017-01-20</Date>
+  <Time>13:32:33</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry85>
+  <Entry86>
+  <Date>2017-01-20</Date>
+  <Time>13:33:37</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry86>
+  <Entry87>
+  <Date>2017-01-20</Date>
+  <Time>13:33:58</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry87>
+  <Entry88>
+  <Date>2017-01-20</Date>
+  <Time>13:34:46</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/No Longer Slaves</FileName>
+  <title>No Longer Slaves</title>
+  <author>Jonathan David Helser and Melissa Helser</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry88>
+  <Entry89>
+  <Date>2017-01-20</Date>
+  <Time>13:34:48</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/No Longer Slaves</FileName>
+  <title>No Longer Slaves</title>
+  <author>Jonathan David Helser and Melissa Helser</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry89>
+  <Entry90>
+  <Date>2017-01-20</Date>
+  <Time>13:37:20</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/No Longer Slaves</FileName>
+  <title>No Longer Slaves</title>
+  <author>Jonathan David Helser and Melissa Helser</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry90>
+  <Entry91>
+  <Date>2017-01-20</Date>
+  <Time>13:40:00</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/Our Father</FileName>
+  <title>Our Father</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry91>
+  <Entry92>
+  <Date>2017-01-20</Date>
+  <Time>13:40:09</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Our Father</FileName>
+  <title>Our Father</title>
+  <author>Marcus Meier</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry92>
+  <Entry93>
+  <Date>2017-01-20</Date>
+  <Time>13:40:33</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Our Father</FileName>
+  <title>Our Father</title>
+  <author>Marcus Meier</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry93>
+  <Entry94>
+  <Date>2017-01-20</Date>
+  <Time>13:40:33</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Our Father</FileName>
+  <title>Our Father</title>
+  <author>Marcus Meier</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry94>
+  <Entry95>
+  <Date>2017-01-20</Date>
+  <Time>13:41:55</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Our Father</FileName>
+  <title>Our Father</title>
+  <author>Marcus Meier</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry95>
+  <Entry96>
+  <Date>2017-01-20</Date>
+  <Time>13:44:45</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/Set A Fire</FileName>
+  <title>Set A Fire</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry96>
+  <Entry97>
+  <Date>2017-01-20</Date>
+  <Time>13:46:12</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Set A Fire</FileName>
+  <title>Set A Fire</title>
+  <author>Will Reagan</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry97>
+  <Entry98>
+  <Date>2017-01-20</Date>
+  <Time>13:46:19</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Set A Fire</FileName>
+  <title>Set A Fire</title>
+  <author>Will Reagan</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry98>
+  <Entry99>
+  <Date>2017-01-20</Date>
+  <Time>13:46:21</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Set A Fire</FileName>
+  <title>Set A Fire</title>
+  <author>Will Reagan</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry99>
+  <Entry100>
+  <Date>2017-01-20</Date>
+  <Time>13:46:37</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/You Are</FileName>
+  <title>You Are</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry100>
+  <Entry101>
+  <Date>2017-01-20</Date>
+  <Time>13:50:40</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/You Are</FileName>
+  <title>You Are</title>
+  <author>Maria Lindbak</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry101>
+  <Entry102>
+  <Date>2017-01-20</Date>
+  <Time>13:50:50</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/You Are</FileName>
+  <title>You Are</title>
+  <author>Maria Lindbak</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry102>
+  <Entry103>
+  <Date>2017-01-20</Date>
+  <Time>13:50:50</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/You Are</FileName>
+  <title>You Are</title>
+  <author>Maria Lindbak</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry103>
+  <Entry104>
+  <Date>2017-01-20</Date>
+  <Time>13:57:38</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Adore Him</FileName>
+  <title>Adore Him</title>
+  <author>Samuel Lane</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry104>
+  <Entry105>
+  <Date>2017-01-20</Date>
+  <Time>13:59:31</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Adore Him</FileName>
+  <title>Adore Him</title>
+  <author>Samuel Lane</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry105>
+  <Entry106>
+  <Date>2017-01-20</Date>
+  <Time>13:59:31</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/No Longer Slaves</FileName>
+  <title>No Longer Slaves</title>
+  <author>Jonathan David Helser and Melissa Helser</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry106>
+  <Entry107>
+  <Date>2017-01-20</Date>
+  <Time>13:59:31</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Set A Fire</FileName>
+  <title>Set A Fire</title>
+  <author>Will Reagan</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry107>
+  <Entry108>
+  <Date>2017-01-20</Date>
+  <Time>13:59:31</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Our Father</FileName>
+  <title>Our Father</title>
+  <author>Marcus Meier</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry108>
+  <Entry109>
+  <Date>2017-01-20</Date>
+  <Time>13:59:31</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/You Are</FileName>
+  <title>You Are</title>
+  <author>Maria Lindbak</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry109>
+  <Entry110>
+  <Date>2017-01-20</Date>
+  <Time>14:02:05</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Adore Him</FileName>
+  <title>Adore Him</title>
+  <author>Samuel Lane</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry110>
+  <Entry111>
+  <Date>2017-01-20</Date>
+  <Time>14:02:05</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Good Good Father</FileName>
+  <title>Good Good Father</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry111>
+  <Entry112>
+  <Date>2017-01-20</Date>
+  <Time>14:02:05</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/No Longer Slaves</FileName>
+  <title>No Longer Slaves</title>
+  <author>Jonathan David Helser and Melissa Helser</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry112>
+  <Entry113>
+  <Date>2017-01-20</Date>
+  <Time>14:03:50</Time>
+  <Description>2</Description>
+  <FileName>Vineyard/Test</FileName>
+  <title>Test</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry113>
+  <Entry114>
+  <Date>2017-01-20</Date>
+  <Time>14:04:01</Time>
+  <Description>2</Description>
+  <FileName>Vineyard/Program</FileName>
+  <title>Program</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry114>
+  <Entry115>
+  <Date>2017-01-20</Date>
+  <Time>14:04:38</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/No Longer Slaves</FileName>
+  <title>No Longer Slaves</title>
+  <author>Jonathan David Helser and Melissa Helser</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry115>
+  <Entry116>
+  <Date>2017-01-20</Date>
+  <Time>14:05:29</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Consuming Fire</FileName>
+  <title>Blessed be your name</title>
+  <author>Matt Redman</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry116>
+  <Entry117>
+  <Date>2017-01-20</Date>
+  <Time>14:06:07</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Heart of Worship</FileName>
+  <title>Halleluja (Your love is amazing)</title>
+  <author>Vineyard UK</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry117>
+  <Entry118>
+  <Date>2017-01-20</Date>
+  <Time>14:06:51</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/How great is our God</FileName>
+  <title>Hjerteslag</title>
+  <author>Radiate</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry118>
+  <Entry119>
+  <Date>2017-01-20</Date>
+  <Time>14:07:09</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/How great is our God</FileName>
+  <title>How great is our God</title>
+  <author>Chris Tomlin</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry119>
+  <Entry120>
+  <Date>2017-01-20</Date>
+  <Time>14:09:03</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/I stor beundring</FileName>
+  <title>I stor beundring</title>
+  <author>Andreas Karstad</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry120>
+  <Entry121>
+  <Date>2017-01-20</Date>
+  <Time>14:11:25</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Let my life be like a lovesong</FileName>
+  <title>Ingen er som Jesus</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry121>
+  <Entry122>
+  <Date>2017-01-20</Date>
+  <Time>14:12:14</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Let my life be like a lovesong</FileName>
+  <title>Let my life be like a lovesong</title>
+  <author>Vineyard Music UK</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry122></log>

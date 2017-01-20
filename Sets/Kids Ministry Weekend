@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="Kids Ministry Weekend">
+  <slide_groups>
+  <slide_group name="Adore Him" type="song" presentation="" path="Vineyard/"/>
+  <slide_group name="Good Good Father" type="song" presentation="" path="Vineyard/"/>
+  <slide_group name="No Longer Slaves" type="song" presentation="" path="Vineyard/"/>
+  <slide_group name="Set A Fire" type="song" presentation="" path="Vineyard/"/>
+  <slide_group name="Our Father" type="song" presentation="" path="Vineyard/"/>
+  <slide_group name="You Are" type="song" presentation="" path="Vineyard/" transition="0"/>
+</slide_groups></set>
