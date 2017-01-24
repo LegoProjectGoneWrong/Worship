@@ -35,4 +35,4 @@
   <key/>
 </rcserver>
   <image_quality fit_to_screen="true" fit_to_body="false" keepaspect="false" exclude_backgrounds="false" background_as_text="false" compression="3"/>
-</main_settings>
+  <song_revert_on_dont_save>true</song_revert_on_dont_save></main_settings>
