@@ -1258,7 +1258,7 @@
   <FileName>Vineyard/No Longer Slaves</FileName>
   <title>No Longer Slaves</title>
   <author>Jonathan David Helser and Melissa Helser</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry140>
   <Entry141>
   <Date>2017-01-21</Date>
@@ -1267,7 +1267,7 @@
   <FileName>Vineyard/Adore Him</FileName>
   <title>Adore Him</title>
   <author>Samuel Lane</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry141>
   <Entry142>
   <Date>2017-01-21</Date>
@@ -1276,7 +1276,7 @@
   <FileName>Vineyard/Good Good Father</FileName>
   <title>Good Good Father</title>
   <author>Chris Tomlin</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry142>
   <Entry143>
   <Date>2017-01-21</Date>
@@ -1285,7 +1285,7 @@
   <FileName>Vineyard/No Longer Slaves</FileName>
   <title>No Longer Slaves</title>
   <author>Jonathan David Helser and Melissa Helser</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry143>
   <Entry144>
   <Date>2017-01-21</Date>
@@ -1294,7 +1294,7 @@
   <FileName>Vineyard/Set A Fire</FileName>
   <title>Set A Fire</title>
   <author>Will Reagan</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry144>
   <Entry145>
   <Date>2017-01-21</Date>
@@ -1303,5 +1303,23 @@
   <FileName>Vineyard/Our Father</FileName>
   <title>Our Father</title>
   <author>Marcus Meier</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry145>
+  <Entry146>
+  <Date>2017-01-31</Date>
+  <Time>16:37:01</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/Lord Reign in Me</FileName>
+  <title>Lord Reign in Me</title>
+  <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry145></log>
+  <HasChords>false</HasChords></Entry146>
+  <Entry147>
+  <Date>2017-01-31</Date>
+  <Time>16:37:44</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Lord Reign in Me</FileName>
+  <title>Lord Reign in Me</title>
+  <author>Brenton Brown</author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry147></log>
