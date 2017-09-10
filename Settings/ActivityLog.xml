@@ -2329,7 +2329,7 @@
   <FileName>KidsCamp/2017 Scouts/Du är dunderbra- Svensk</FileName>
   <title>DU ÄR DUNDERBRA </title>
   <author>Hanna Corneskog   </author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry259>
   <Entry260>
   <Date>2017-07-17</Date>
@@ -2338,7 +2338,7 @@
   <FileName>KidsCamp/2017 Scouts/Du är dunderbra- Svensk</FileName>
   <title>DU ÄR DUNDERBRA </title>
   <author>Hanna Corneskog   </author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>false</HasChords></Entry260>
   <Entry261>
   <Date>2017-07-17</Date>
@@ -2346,8 +2346,8 @@
   <Description>5</Description>
   <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
   <title>Forandrings-Agenter Svensk</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry261>
   <Entry262>
   <Date>2017-07-17</Date>
@@ -2355,8 +2355,8 @@
   <Description>5</Description>
   <FileName>KidsCamp/2017 Scouts/Jubelropet - Svensk</FileName>
   <title>Jubelropet</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry262>
   <Entry263>
   <Date>2017-07-17</Date>
@@ -2364,8 +2364,8 @@
   <Description>5</Description>
   <FileName>KidsCamp/2017 Scouts/Vi Danser - Svensk</FileName>
   <title>Vi Dansar - Svensk</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry263>
   <Entry264>
   <Date>2017-07-17</Date>
@@ -2374,5 +2374,365 @@
   <FileName>KidsCamp/2017 Scouts/Vi Danser - Dansk</FileName>
   <title>Vi Danser - Dansk</title>
   <author>Marcus Nielsen, Emmanuel Hyllerud</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry264>
+  <Entry265>
+  <Date>2017-07-18</Date>
+  <Time>09:24:09</Time>
+  <Description>3</Description>
+  <FileName>KidsCamp/2017 Scouts/Du er God - Svenska</FileName>
+  <title>Du är God</title>
+  <author>Brian Johnson, Jeremy Riddle</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry265>
+  <Entry266>
+  <Date>2017-07-18</Date>
+  <Time>09:24:25</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Du är dunderbra- Svensk</FileName>
+  <title>DU ÄR DUNDERBRA </title>
+  <author>Hanna Corneskog   </author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry266>
+  <Entry267>
+  <Date>2017-07-18</Date>
+  <Time>09:24:25</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry267>
+  <Entry268>
+  <Date>2017-07-18</Date>
+  <Time>09:24:25</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Jubelropet - Svensk</FileName>
+  <title>Jubelropet</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry268>
+  <Entry269>
+  <Date>2017-07-18</Date>
+  <Time>09:54:19</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Du er God - Svenska</FileName>
+  <title>Du är God</title>
+  <author>Brian Johnson, Jeremy Riddle</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry269>
+  <Entry270>
+  <Date>2017-07-18</Date>
+  <Time>09:57:57</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry270>
+  <Entry271>
+  <Date>2017-07-18</Date>
+  <Time>10:00:47</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry271>
+  <Entry272>
+  <Date>2017-07-18</Date>
+  <Time>10:01:46</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry272>
+  <Entry273>
+  <Date>2017-07-18</Date>
+  <Time>10:14:10</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Du er God - Svenska</FileName>
+  <title>Du är God</title>
+  <author>Brian Johnson, Jeremy Riddle</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry273>
+  <Entry274>
+  <Date>2017-07-18</Date>
+  <Time>10:14:10</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry274>
+  <Entry275>
+  <Date>2017-07-18</Date>
+  <Time>12:06:15</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Vi Danser - Svensk</FileName>
+  <title>Vi Dansar - Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry275>
+  <Entry276>
+  <Date>2017-07-18</Date>
+  <Time>12:11:02</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Jubelropet - Svensk</FileName>
+  <title>Jubelropet</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry276>
+  <Entry277>
+  <Date>2017-07-18</Date>
+  <Time>12:11:54</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Vi Danser - Svensk</FileName>
+  <title>Vi Dansar - Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry277>
+  <Entry278>
+  <Date>2017-07-19</Date>
+  <Time>08:39:42</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Du är dunderbra- Svensk</FileName>
+  <title>DU ÄR DUNDERBRA </title>
+  <author>Hanna Corneskog   </author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry278>
+  <Entry279>
+  <Date>2017-07-19</Date>
+  <Time>08:39:42</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Du er God - Svenska</FileName>
+  <title>Du är God</title>
+  <author>Brian Johnson, Jeremy Riddle</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry279>
+  <Entry280>
+  <Date>2017-07-19</Date>
+  <Time>08:39:42</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Kongebarn - Svenska</FileName>
+  <title>Kongebarn - Svenska</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry280>
+  <Entry281>
+  <Date>2017-07-19</Date>
+  <Time>08:39:42</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Jubelropet - Svensk</FileName>
+  <title>Jubelropet</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry281>
+  <Entry282>
+  <Date>2017-07-20</Date>
+  <Time>09:16:49</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Kongebarn - Svenska</FileName>
+  <title>Kongebarn - Svenska</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry282>
+  <Entry283>
+  <Date>2017-07-20</Date>
+  <Time>09:16:49</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Jubelropet - Svensk</FileName>
+  <title>Jubelropet</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry283>
+  <Entry284>
+  <Date>2017-07-20</Date>
+  <Time>09:16:49</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry284>
+  <Entry285>
+  <Date>2017-07-20</Date>
+  <Time>09:16:49</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Vi Danser - Svensk</FileName>
+  <title>Vi Dansar - Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry285>
+  <Entry286>
+  <Date>2017-07-20</Date>
+  <Time>12:05:55</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry286>
+  <Entry287>
+  <Date>2017-07-20</Date>
+  <Time>12:05:55</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Vi Danser - Svensk</FileName>
+  <title>Vi Dansar - Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry287>
+  <Entry288>
+  <Date>2017-07-21</Date>
+  <Time>10:02:49</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Jubelropet - Svensk</FileName>
+  <title>Jubelropet</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry288>
+  <Entry289>
+  <Date>2017-07-21</Date>
+  <Time>10:02:49</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Du er God - Svenska</FileName>
+  <title>Du är God</title>
+  <author>Brian Johnson, Jeremy Riddle</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry289>
+  <Entry290>
+  <Date>2017-07-21</Date>
+  <Time>10:02:49</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Vi Danser - Svensk</FileName>
+  <title>Vi Dansar - Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry290>
+  <Entry291>
+  <Date>2017-07-21</Date>
+  <Time>10:02:50</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry291>
+  <Entry292>
+  <Date>2017-07-21</Date>
+  <Time>11:57:16</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Du er God - Svenska</FileName>
+  <title>Du är God</title>
+  <author>Brian Johnson, Jeremy Riddle</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry292>
+  <Entry293>
+  <Date>2017-07-21</Date>
+  <Time>11:57:31</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Jubelropet - Svensk</FileName>
+  <title>Jubelropet</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry293>
+  <Entry294>
+  <Date>2017-07-21</Date>
+  <Time>11:57:31</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Vi Danser - Svensk</FileName>
+  <title>Vi Dansar - Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry294>
+  <Entry295>
+  <Date>2017-07-21</Date>
+  <Time>11:57:59</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Jubelropet - Svensk</FileName>
+  <title>Jubelropet</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry295>
+  <Entry296>
+  <Date>2017-07-21</Date>
+  <Time>11:57:59</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/Du er God - Svenska</FileName>
+  <title>Du är God</title>
+  <author>Brian Johnson, Jeremy Riddle</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry296>
+  <Entry297>
+  <Date>2017-07-21</Date>
+  <Time>11:57:59</Time>
+  <Description>5</Description>
+  <FileName>KidsCamp/2017 Scouts/ForandringsAgenter Svensk</FileName>
+  <title>Forandrings-Agenter Svensk</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry297>
+  <Entry298>
+  <Date>2017-09-10</Date>
+  <Time>21:57:50</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/Freedom Reigns</FileName>
+  <title>Freedom Reigns</title>
+  <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry264></log>
+  <HasChords>false</HasChords></Entry298>
+  <Entry299>
+  <Date>2017-09-10</Date>
+  <Time>21:59:31</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Freedom Reigns</FileName>
+  <title>Freedom Reigns</title>
+  <author>Jesus CUlture</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry299>
+  <Entry300>
+  <Date>2017-09-10</Date>
+  <Time>21:59:38</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Freedom Reigns</FileName>
+  <title>Freedom Reigns</title>
+  <author>Jesus CUlture</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry300>
+  <Entry301>
+  <Date>2017-09-10</Date>
+  <Time>21:59:42</Time>
+  <Description>5</Description>
+  <FileName>Vineyard/Freedom Reigns</FileName>
+  <title>Freedom Reigns</title>
+  <author>Jesus CUlture</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry301>
+  <Entry302>
+  <Date>2017-09-10</Date>
+  <Time>22:22:06</Time>
+  <Description>1</Description>
+  <FileName>Vineyard/Thank you Jesus</FileName>
+  <title>Thank you Jesus</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry302>
+  <Entry303>
+  <Date>2017-09-10</Date>
+  <Time>22:25:06</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Thank you Jesus</FileName>
+  <title>Thank you Jesus</title>
+  <author>HIllsong Live</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry303>
+  <Entry304>
+  <Date>2017-09-10</Date>
+  <Time>22:25:36</Time>
+  <Description>3</Description>
+  <FileName>Vineyard/Thank you Jesus</FileName>
+  <title>Thank you Jesus</title>
+  <author>HIllsong Live</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry304></log>
